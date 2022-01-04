@@ -1,3 +1,6 @@
 [submodule "phone-store"]
 	path = phone-store
 	url = git@github.com:LeonardoBrizolla/phone-store.git
+[submodule "pokelab"]
+	path = pokelab
+	url = git@github.com:LeonardoBrizolla/pokelab.git
